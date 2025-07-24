@@ -1,0 +1,4 @@
+PyMuPDF==1.26.3
+regex==2024.11.6
+langdetect==1.0.9
+langdetect==1.0.9
